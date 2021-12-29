@@ -48,3 +48,17 @@ Python을 활용한 데이터 시각화
 #### 8일차
 미니 프로젝트
 - 프로젝트 주제: 중고나라 스마트폰 가격 예측하기
+
+
+--------------------------------------
+### 실습파일 링크
+
+Python
+https://github.com/teddylee777/machine-learning/tree/master/00-Python
+
+Numpy
+https://colab.research.google.com/drive/1LNXGVrc7MB7dC49Cu43CVgVONmzFanke?usp=sharing
+
+Pandas
+https://github.com/teddylee777/machine-learning/tree/master/05-Pandas/tutorial
+
