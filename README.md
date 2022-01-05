@@ -62,3 +62,6 @@ https://colab.research.google.com/drive/1LNXGVrc7MB7dC49Cu43CVgVONmzFanke?usp=sh
 Pandas
 https://github.com/teddylee777/machine-learning/tree/master/05-Pandas/tutorial
 
+Youtube
+https://youtu.be/be1dz3poaVs
+
