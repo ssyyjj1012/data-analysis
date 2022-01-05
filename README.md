@@ -65,3 +65,6 @@ https://github.com/teddylee777/machine-learning/tree/master/05-Pandas/tutorial
 Youtube
 https://youtu.be/be1dz3poaVs
 
+Open data
+https://github.com/teddylee777/machine-learning#%EC%98%A4%ED%94%88%EB%8D%B0%EC%9D%B4%ED%84%B0
+
